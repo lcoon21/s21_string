@@ -18,7 +18,7 @@ The most valuable discovery out of all of them is definitely TDD methodology. Th
 
 ## Build
 ```
-$ git clone ...
+$ git clone git@github.com:lcoon21/s21_string.git
 $ cd repo/src/
 $ make test
 $ ./s21_test_runner
