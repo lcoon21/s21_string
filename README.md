@@ -1,5 +1,5 @@
 ## General info 
-Implementation of libc `string.h` functions with some additions, including `sscanf` and `ssprintf` with all specifiers and flags. Fully covered with unit-tests under TDD approach. 
+Implementation of libc `string.h` functions with some additions, including `ssprintf` with all specifiers and flags. Fully covered with unit-tests under TDD approach. 
 
 <div align="center"><img src="stuff_for_readme/build.gif"></div>
 <div align="center"><sub>Build & launching unit-tests</sub></div>
